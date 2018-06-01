@@ -2,7 +2,7 @@
 
 This repository just holds some external sources for Metwork Framework builds.
 
-**It's a kind of software distribution. No derived work here. 
+**It's a kind of software distribution. No derived work here.**
 
 Maybe some static builds for specific edge cases but mainly untouched softwares source archives
 for softwares with slow or unreliable public download links.
